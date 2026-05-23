@@ -4,3 +4,6 @@ openpyxl
 ipykernel
 pygments
 jupyter
+geopandas
+shapely
+pyogrio
