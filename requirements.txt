@@ -7,3 +7,4 @@ jupyter
 geopandas
 shapely
 pyogrio
+statsmodels
