@@ -8,3 +8,4 @@ geopandas
 shapely
 pyogrio
 statsmodels
+scikit-learn
